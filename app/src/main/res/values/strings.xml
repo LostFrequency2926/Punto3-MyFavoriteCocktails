@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">My Favorite Cocktails</string>
+    <string name="title_App">My Favorite Cocktails</string>
+    <string name="cocktail_1">Bloody Mary</string>
+    <string name="cocktail_2">Tom Collins</string>
+    <string name="cocktail_3">Clericot o clericó</string>
+    <string name="cocktail_4">Rebujito</string>
+
+    <string name="cocktail_1_ingredients">
+        Ingredientes: \n
+        \n
+        - Vodka 70 ml \n
+        - Zumo de tomate 210 ml \n
+        - Zumo de limón 15 ml \n
+        - Salsa Tabasco dos gotas \n
+        - Salsa Worcestershire tres gotas \n
+        - Pimienta negra molida \n
+        - Apio \n
+        \n
+        Preparación: \n
+        \n
+        Lo habitual es utilizar una tercera \n
+        parte de la cantidad de zumo de tomate\n
+        que se vaya a usar. Para 210 ml de tomate,\n
+        utilizaremos 70 ml de vodka y la proporción\n
+        quedará en su punto. No obstante, con la \n
+        experiencia de Kike el lo hace a ojo \n
+        (y lo clava). Para incorporar el apio y la\n
+        sal, el barman nos recomienda utilizar sal \n
+        de apio, que aporta el inconfundible sabor de\n
+        la hortaliza, sin saturar (evitando de paso\n
+        que su sabor nos pueda repetir). Además así\n
+        incorporamos el toque salado
+    </string>
+
+
+    <string name="cocktail_2_ingredients">
+    <![CDATA[
+        Ingredientes:\n
+        \n
+        - 50 ml de ginebra \n
+        - 100 ml de zumo de limón \n
+        - 100 ml de soda \n
+        - 1 cucharada de azúcar \n
+        - hielo \n
+        \n
+        Preparación: \n
+        \n
+        Vierte en el vaso el zumo de un limón \n
+        (aproximadamente 100 ml), una \n
+        cucharada de azúcar o sirope, dos \n
+        medidas de ginebra y, finalmente, \n
+        la soda (te cabra medio botellín). \n
+        Remueve bien para que se diluya el \n
+        azúcar. Añade tres o cuatro o cubitos \n
+        de huelo y una rodaja de limón y a \n
+        disfrutar.
+    ]]>
+    </string>
+
+    <string name="cocktail_3_ingredients">
+    <![CDATA[
+        Ingredientes: \n
+           \n
+        - 33cl de vino blanco espumoso \n
+        - 1 melocotón \n
+        - 2 ciruelas \n
+        - 1 limón \n
+        - 5ml de crema de Cassis \n
+        - hielo \n
+        \n
+        Elaboración: \n
+        \n
+        Vamos a cortar en dos el melocotón y \n
+        las ciruelas. En seguida los cortamos \n
+        en trocitos y colocamos en una jarra. \n
+        Agregamos unas gotas de jugo de limón \n
+        y la crema de Cassis. Revolvemos y \n
+        agregamos hielo. Vertemos poco a poco \n
+        el vino espumoso revolviendo todo el \n
+        contenido con cuidado. No queremos \n
+        eliminar muchas burbujas por lo que \n
+        hay que evitar revolverlo como si f \n
+        uera una "cuba". Agregamos más hielo \n
+        y servimos en copas de tipo flautas o \n
+        en vasos cortos tipo old fashion según \n
+        lo que tengamos disponible. \n
+    ]]>
+    </string>
+
+    <string name="cocktail_4_ingredients">
+        Ingredientes:\n
+        \n
+        - 75 ml de Vino Manzanilla Fino, Montilla \n
+          Moriles o similar \n
+        - 500 ml de refresco de lima o gaseosa \n
+        - 4 ramitas de Hierbabuena \n
+        - Hielo abundante \n
+        \n
+        Elaboración: \n
+        \n
+        Preparar un buen rebujito no tiene
+        mucha complicación, pero hacer que
+        quede delicioso, suave, refrescante y
+        no tenga demasiado alcohol para que no
+        sea "cabezón" ni nos emborrache es una
+        cuestión que no conviene olvidar. El
+        rebujito se bebe muy fácil y sin darnos
+        cuenta podemos beber de más. Por ese
+        motivo, me encanta hacer esta receta en
+        la que la proporción de alcohol y
+        refresco es más ligera, por lo que se
+        puede tomar más cantidad sin temor a
+        los efectos de un consumo excesivo.
+        Mezclamos el vino fino con el refresco
+        carbónicocon sabor a lima o limón.
+        Los utilizados más habitualmente son
+        el 7Up y el Sprite, pero podéis
+        utilizar los que más os gusten.
+        Lo importante es que estén muy fríos
+        y que no tengan un sabor muy
+        potente que pueda cambiar el sabor de
+        la mezcla. Conviene escaldar unos
+        segundos la hierbabuena para eliminar
+        toda impureza que pueda tener y para
+        quesu sabor no tape en exceso el de
+        los dos ingredientes fundamentales.
+        Una vez escaldada y refrescada,
+        separamos los palos de las hojas y
+        añadimos estasúltimas a la jarra,
+        añadiendo hielos para que la bebida
+        resultante se mantenga bien fría.
+    </string>
+    <string name="moreInfo">Detalles</string>
+    <string name="appDesc">recetas de cócteles fáciles que puedes hacer en casa para un día de fiesta</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="back_to_main"> </string>
+    <string name="ageValidator">Por favor selecciona tu fecha de nacimiento !!!</string>
+    <string name="enter">Ingresar</string>
+
+</resources>
