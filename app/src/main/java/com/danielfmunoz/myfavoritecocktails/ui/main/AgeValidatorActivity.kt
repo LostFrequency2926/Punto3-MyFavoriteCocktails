@@ -30,7 +30,7 @@ class AgeValidatorActivity : AppCompatActivity() {
             calendar.set(datePicker.year, datePicker.month, datePicker.dayOfMonth)
             val date = calendar.time
 
-            if (isAdult(date)) {
+            if (mainViewModel.isAdult(date)) {
                 val intent = Intent(this, MainActivity::class.java)
                 startActivity(intent)
             } else {
@@ -38,25 +38,4 @@ class AgeValidatorActivity : AppCompatActivity() {
             }
         }
     }
-
-    fun isAdult(date: Date): Boolean {
-        val calendar = Calendar.getInstance()
-        calendar.time = date
-        val year = calendar.get(Calendar.YEAR)
-        val month = calendar.get(Calendar.MONTH)
-        val day = calendar.get(Calendar.DAY_OF_MONTH)
-
-        val today = Calendar.getInstance()
-        var age = today.get(Calendar.YEAR) - year
-
-        if (today.get(Calendar.MONTH) < month ||
-            (today.get(Calendar.MONTH) == month && today.get(Calendar.DAY_OF_MONTH) < day)) {
-            age--
-        }
-
-        return age >= 18
-    }
-
-
-
 }
