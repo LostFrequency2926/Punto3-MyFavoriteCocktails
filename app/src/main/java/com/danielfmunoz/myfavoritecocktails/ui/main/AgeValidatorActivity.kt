@@ -29,7 +29,7 @@ class AgeValidatorActivity : AppCompatActivity() {
                 val intent = Intent(this, MainActivity::class.java)
                 startActivity(intent)
             } else {
-                Toast.makeText(this, "Debes ser mayor de edad para continuar", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, getString(R.string.adulto), Toast.LENGTH_SHORT).show()
             }
         }
     }

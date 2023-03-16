@@ -140,5 +140,6 @@
     <string name="back_to_main"> </string>
     <string name="ageValidator">Por favor selecciona tu fecha de nacimiento !!!</string>
     <string name="enter">Ingresar</string>
+    <string name="adulto">"Debes ser mayor de edad para continuar"</string>
 
 </resources>
